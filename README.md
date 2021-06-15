@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I like listening to music**
 
-<h3 align="left">Competitive platforms:</h3>
+<h3 align="left">Competitive Coding platforms:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/lakshay_anand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lakshay_anand" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/lakshay_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshay_anand" height="30" width="40" /></a>
